@@ -8,6 +8,9 @@ I started in web development with React, which taught me the value of clean code
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1&pause=500000000000&color=D4AF37&width=435&lines=Languages)](https://git.io/typing-svg)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFD700)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=FFD700)
+![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=FFD700)
+![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=FFD700)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFD700)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFD700)
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet&logoColor=FFD700)
