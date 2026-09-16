@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&duration=1&pause=500000000000&color=D4AF37&width=435&lines=Hi!+I'm+Saveliy)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&color=D4AF37&width=435&lines=A+bit+about+me%3A)](https://git.io/typing-svg) <br/>
-I started in web development with React, which taught me the value of clean code and attention to detail. These days, I’ve shifted my focus to C programming, applying those same principles to build efficient and reliable systems.
+I’m a developer who works across multiple fields and quickly picks up new technologies. I started my journey in web development and gradually moved into Embedded, GameDev, Data Science, Application Development, and other areas. My focus evolves over time — I’m constantly exploring new fields and expanding my technical stack.
 
 ##
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=34&duration=1&pause=500000000000&color=D4AF37&width=435&lines=Tech+stack)](https://git.io/typing-svg)
@@ -14,6 +14,7 @@ I started in web development with React, which taught me the value of clean code
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFD700)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFD700)
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet&logoColor=FFD700)
+![Python](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=python&logoColor=FFD700)
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1&pause=500000000000&color=D4AF37&width=435&lines=Embedded)](https://git.io/typing-svg)
 
