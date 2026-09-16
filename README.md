@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&duration=1&pause=500000000000&color=D4AF37&width=435&lines=Hi!+I'm+Saveliy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&duration=1&pause=500000000000&color=D4AF37&width=435&lines=Hi!+I'm+Savelii)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&color=D4AF37&width=435&lines=A+bit+about+me%3A)](https://git.io/typing-svg) <br/>
 I’m a developer who works across multiple fields and quickly picks up new technologies. I started my journey in web development and gradually moved into Embedded, GameDev, Data Science, Application Development, and other areas. My focus evolves over time — I’m constantly exploring new fields and expanding my technical stack.
@@ -91,5 +91,4 @@ I’m a developer who works across multiple fields and quickly picks up new tech
 ---
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=1&pause=500000000000&color=D4AF37&width=435&lines=How+to+contact+me)](https://git.io/typing-svg)
 
-![Telegram](https://img.shields.io/badge/Telegram-detera1-000000?style=for-the-badge&logo=telegram&logoColor=FFD700)
 ![Discord](https://img.shields.io/badge/Discord-detera__loq-000000?style=for-the-badge&logo=discord&logoColor=FFD700)
