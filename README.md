@@ -14,7 +14,7 @@ I’m a developer who works across multiple fields and quickly picks up new tech
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFD700)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFD700)
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet&logoColor=FFD700)
-![Python](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=python&logoColor=FFD700)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700)
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1&pause=500000000000&color=D4AF37&width=435&lines=Embedded)](https://git.io/typing-svg)
 
