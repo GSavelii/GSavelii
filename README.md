@@ -91,4 +91,4 @@ I’m a developer who works across multiple fields and quickly picks up new tech
 ---
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=1&pause=500000000000&color=D4AF37&width=435&lines=How+to+contact+me)](https://git.io/typing-svg)
 
-![Discord](https://img.shields.io/badge/Discord-detera__loq-000000?style=for-the-badge&logo=discord&logoColor=FFD700)
+![Discord](https://img.shields.io/badge/Discord-gsavelii-000000?style=for-the-badge&logo=discord&logoColor=FFD700)
